@@ -1,0 +1,4 @@
+TESTES:
+=>Tela sendo responsiva das resoluções 1920x1080 até uma de 800x600;
+=>Foram testados todos os campos obrigatórios para criar e adicionar um filme ao catálogo;
+=>Todos os eventos e funções criadas do foram passadas e testadas unitariamentes;
